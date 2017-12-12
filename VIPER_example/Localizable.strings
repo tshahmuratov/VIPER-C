@@ -1,0 +1,12 @@
+/* 
+  Strings.strings
+  VIPER_example
+
+  Created by Timur.Shahmuratov on 12.12.2017.
+  Copyright © 2017 Timur.Shahmuratov. All rights reserved.
+*/
+
+"entity1_title" = "Entity1";
+"entity2_title" = "Entity2";
+"active_header" = "Active";
+"label2" = "Page number 2";
